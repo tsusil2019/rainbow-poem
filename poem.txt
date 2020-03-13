@@ -1,1 +1,6 @@
-
+purple
+pink
+orange
+blue
+red
+these are the color of rainbow
